@@ -1,2 +1,2 @@
 # Java-Advanced
-SoftUni courses: homework, exams, projects.
+This repository includes problems resolved during the Advanced Java course at SoftUni
